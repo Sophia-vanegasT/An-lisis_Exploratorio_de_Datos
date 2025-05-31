@@ -44,3 +44,6 @@ El archivo utilizado es `movie_metadata.csv`, el cual contiene información sobr
    - Gráfico de dispersión entre presupuesto y duración
    - Conteo de directores con más películas
    - Detección de películas con duración atípica (outliers)
+   
+## Tiempo total estimado de trabajo
+   - 3 horas
